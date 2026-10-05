@@ -14,7 +14,6 @@ Data Engineer with 4+ years of experience designing, building, and optimizing sc
 - 🔄 Skilled in **ETL/ELT pipelines, DBT transformations & Medallion Architecture**
 - ☁️ Hands-on exposure to **AWS S3 & IAM** for cloud data solutions
 - ⚡ Experienced in **Snowpipe automation with AWS S3**
-- 📊 Optimized data workloads and reduced query costs by **~20%**
 - 🚀 Focused on building **automated, scalable & reliable data pipelines**
 
 ### 🛠️ Tech Stack
