@@ -24,6 +24,7 @@ Data Engineer with 4+ years of experience designing, building, and optimizing sc
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dbt/dbt-original.svg" width="40" height="40"/>  
 </p>
 
 **Data Engineering:** Snowflake • DBT • SQL • ETL/ELT  
